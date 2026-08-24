@@ -1,4 +1,4 @@
-# CEH-WRITE-UPS
+# Full Advance Ethical hacking Course
 full Ethical hacking Course With Practical and Write-ups
 
 This course is designed to take you from **beginner to job-ready penetration tester** by covering:
